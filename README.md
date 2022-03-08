@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Udbhav Vikram Singh , a Information Technology Btech student
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Web Development and App Development
 - 📫 reach me at udbhav9628@gmail.com
 
 <!---
