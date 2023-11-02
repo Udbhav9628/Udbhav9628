@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Udbhav Vikram Singh , a Information Technology Btech student
-- 👀 Knows Web Development ( MERN ) and App development ( React Native )
+- 👋 Hi, I’m Udbhav Vikram Singh , a Full Stack web and app developer
 - 📫 reach me at udbhav9628@gmail.com
 
 <!---
