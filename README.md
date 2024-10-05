@@ -40,6 +40,9 @@ A web app that allows users to play chess on a video call.
 - **Stack**: React, WebRTC, WebSockets, Node.js
 - **Features**: Real-time video and chessboard synchronization
 
+###  [React Native Highlight Tooltip](https://www.npmjs.com/package/react-native-highlight-tooltip?activeTab=readme)
+React Native Highlight Tooltip npm Package let's you highlights specific UI components by simply taking a reference (ref) of the component.
+
 ---
 
 ## 📈 GitHub Stats
